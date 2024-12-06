@@ -2,7 +2,7 @@
 
 # Resumen Ejecutivo
 
-# Descripción
+- [Descripción](https://github.com/alejandrohdzlop/TiendaLupita/wiki/Descripción)
 Tienda_Lupita es un sistema de gestión web diseñado para optimizar las operaciones de una tienda y papelería. Permite administrar productos y clientes de manera eficiente, proporcionando herramientas para el control del inventario, registro de clientes y seguimiento de datos temporales mediante cookies.
 
 # Problema Identificado
