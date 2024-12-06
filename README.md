@@ -130,7 +130,7 @@ Este sistema está diseñado para ser una herramienta flexible y escalable que m
 ## Acceso al Producto
 
 ### Descarga del Producto
-- [Archivo JAR](dist/Tienda_Lupita.jar): Puedes descargar el archivo WAR para implementarlo en un servidor de aplicaciones.
+- [Archivo JAR](dist/): Puedes descargar el archivo WAR para implementarlo en un servidor de aplicaciones.
 
 ### Pasos para implementar el JAR
 1. Descarga el archivo WAR desde el enlace proporcionado.
