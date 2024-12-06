@@ -52,19 +52,21 @@ La arquitectura de la aplicación está basada en Java y se organiza de la sigui
 ## Instalación
 
 ### 1. Clonar el Repositorio
-Para comenzar a trabajar con la aplicación, primero clona el repositorio en tu máquina local:
-```bash
-git clone https://github.com/alejandrohdzlop/TiendaLupita.git
+      Para comenzar a trabajar con la aplicación, primero clona el repositorio en tu máquina local:
 
-```bash
-###  2. Instalar Dependencias
+```git clone https://github.com/alejandrohdzlop/TiendaLupita.git
+```
+
+### 2. Instalar Dependencias
 Las dependencias se gestionan a través de Maven, por lo que necesitas tener Maven instalado en tu máquina. Para instalar Maven, sigue la guía oficial: Guía de instalación de Maven.
+
 
 ### 3. Generar el archivo JAR
 Una vez que hayas clonado el repositorio, navega a la carpeta del proyecto y ejecuta el siguiente comando para compilar el código y generar el archivo JAR:
 
-```bash
+```
 mvn clean package
+```
 
 Esto creará un archivo .jar en la carpeta target/.
 
