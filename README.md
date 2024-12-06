@@ -104,18 +104,24 @@ La aplicación está diseñada para ejecutarse en la consola. A medida que la ej
 
 **Crear una nueva rama**
 
-```git checkout -b nombre-de-la-rama```
+```
+git checkout -b nombre-de-la-rama
+```
 
 Hacer tus cambios Realiza los cambios que desees en el código.
 
 **Commit de los cambios**
 
-```git add .```
-git commit -m "Descripción de los cambios realizados"```
+```
+git add .
+git commit -m "Descripción de los cambios realizados"
+```
 
 **Subir los cambios**
 
-```git push origin nombre-de-la-rama```
+```
+git push origin nombre-de-la-rama
+```
 
 Crear un Pull Request Ve a GitHub y crea un Pull Request de tu rama hacia la rama principal del repositorio.
 
