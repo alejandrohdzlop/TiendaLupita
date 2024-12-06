@@ -63,11 +63,67 @@ Las dependencias se gestionan a través de Maven, por lo que necesitas tener Mav
 ### 3. Generar el archivo JAR
 Una vez que hayas clonado el repositorio, navega a la carpeta del proyecto y ejecuta el siguiente comando para compilar el código y generar el archivo JAR:
 
-```
-mvn clean package
-```
+```mvn clean package```
+
 
 Esto creará un archivo .jar en la carpeta target/.
 
+---
+
+### Configuración
+
+**Configuración de la base de datos**
+La aplicación usa una base de datos local para almacenar los productos y clientes. Por defecto, utiliza SQLite, pero puedes configurarlo para usar otro sistema de base de datos si lo deseas.
+
+La configuración se encuentra en el archivo src/main/resources/application.properties. Aquí puedes configurar las credenciales y las opciones de la base de datos.
+
+---
+
+### Uso
+**Ejecutar la aplicación**
+Para ejecutar la aplicación, navega hasta la carpeta target/ donde se generó el archivo JAR y utiliza el siguiente comando:
+
+```
+java -jar TiendaLupita.jar
+```
+
+---
+
+### Interacción con el usuario
+La aplicación está diseñada para ejecutarse en la consola. A medida que la ejecutes, verás opciones para gestionar productos, clientes y ventas. El sistema guiará al usuario paso a paso a través de las opciones disponibles.
+
+---
+
+### Contribución
+  Si deseas contribuir al proyecto, sigue estos pasos:
+
+**Clonar el repositorio**
 
 
+```git clone https://github.com/alejandrohdzlop/TiendaLupita.git```
+
+**Crear una nueva rama**
+
+```git checkout -b nombre-de-la-rama```
+
+Hacer tus cambios Realiza los cambios que desees en el código.
+
+**Commit de los cambios**
+
+```git add .
+git commit -m "Descripción de los cambios realizados"```
+
+**Subir los cambios**
+
+```git push origin nombre-de-la-rama```
+
+Crear un Pull Request Ve a GitHub y crea un Pull Request de tu rama hacia la rama principal del repositorio.
+```
+---
+
+### Roadmap
+Las siguientes funcionalidades están previstas para implementarse en futuras versiones:
+
+**Gestión de inventario avanzada:** Funciones para seguimiento de stock y alertas.
+**Generación de reportes:** Reportes automáticos de ventas, productos y clientes.
+**Autenticación de usuario:** Implementar un sistema de inicio de sesión para usuarios administrativos.
