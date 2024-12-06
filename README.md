@@ -110,7 +110,7 @@ Hacer tus cambios Realiza los cambios que desees en el código.
 
 **Commit de los cambios**
 
-```git add .
+```git add .```
 git commit -m "Descripción de los cambios realizados"```
 
 **Subir los cambios**
@@ -118,12 +118,12 @@ git commit -m "Descripción de los cambios realizados"```
 ```git push origin nombre-de-la-rama```
 
 Crear un Pull Request Ve a GitHub y crea un Pull Request de tu rama hacia la rama principal del repositorio.
-```
+
 ---
 
 ### Roadmap
 Las siguientes funcionalidades están previstas para implementarse en futuras versiones:
 
-**Gestión de inventario avanzada:** Funciones para seguimiento de stock y alertas.
-**Generación de reportes:** Reportes automáticos de ventas, productos y clientes.
-**Autenticación de usuario:** Implementar un sistema de inicio de sesión para usuarios administrativos.
+- **Gestión de inventario avanzada:** Funciones para seguimiento de stock y alertas.
+- **Generación de reportes:** Reportes automáticos de ventas, productos y clientes.
+- **Autenticación de usuario:** Implementar un sistema de inicio de sesión para usuarios administrativos.
