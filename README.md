@@ -56,5 +56,16 @@ Para comenzar a trabajar con la aplicación, primero clona el repositorio en tu 
 ```bash
 git clone https://github.com/alejandrohdzlop/TiendaLupita.git
 
+###  2. Instalar Dependencias
+Las dependencias se gestionan a través de Maven, por lo que necesitas tener Maven instalado en tu máquina. Para instalar Maven, sigue la guía oficial: Guía de instalación de Maven.
+
+### 3. Generar el archivo JAR
+Una vez que hayas clonado el repositorio, navega a la carpeta del proyecto y ejecuta el siguiente comando para compilar el código y generar el archivo JAR:
+
+```bash
+mvn clean package
+
+Esto creará un archivo .jar en la carpeta target/.
+
 
 
