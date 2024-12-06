@@ -99,8 +99,9 @@ La aplicación está diseñada para ejecutarse en la consola. A medida que la ej
 
 **Clonar el repositorio**
 
-
-```git clone https://github.com/alejandrohdzlop/TiendaLupita.git```
+```
+git clone https://github.com/alejandrohdzlop/TiendaLupita.git
+```
 
 **Crear una nueva rama**
 
