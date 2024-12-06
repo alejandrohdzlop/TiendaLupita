@@ -130,11 +130,23 @@ Este sistema está diseñado para ser una herramienta flexible y escalable que m
 ## Acceso al Producto
 
 ### Descarga del Producto
-- [Archivo WAR](dist/Tienda_Lupita.war): Puedes descargar el archivo WAR para implementarlo en un servidor de aplicaciones.
+- [Archivo WAR](dist/Tienda_Lupita.Jar): Puedes descargar el archivo WAR para implementarlo en un servidor de aplicaciones.
 
-### Requisitos para ejecutar el WAR
-- Un servidor de aplicaciones compatible con Jakarta EE 10, como GlassFish o Payara.
-- Configuración de rutas en el servidor según la documentación del proyecto.
+### Pasos para implementar el JAR
+1. Descarga el archivo WAR desde el enlace proporcionado.
+2. Abre tu servidor GlassFish/Payara.
+3. Ve a la consola de administración (http://localhost:4848).
+4. Selecciona la opción **Applications** y haz clic en **Deploy**.
+5. Carga el archivo WAR y sigue las instrucciones para implementarlo.
+
+### Pasos para ejecutar el JAR
+1. Descarga el archivo JAR desde el enlace proporcionado.
+2. Asegúrate de tener Java instalado (versión 17 o superior).
+3. Abre una terminal y ejecuta el siguiente comando:
+   ```bash
+   java -jar Tienda_Lupita.jar
+   ```
+
 
 ### Alternativa: Implementación en la nube
 Si decides implementar el producto en la nube, actualiza esta sección con el enlace correspondiente.
