@@ -56,6 +56,7 @@ Para comenzar a trabajar con la aplicación, primero clona el repositorio en tu 
 ```bash
 git clone https://github.com/alejandrohdzlop/TiendaLupita.git
 
+```bash
 ###  2. Instalar Dependencias
 Las dependencias se gestionan a través de Maven, por lo que necesitas tener Maven instalado en tu máquina. Para instalar Maven, sigue la guía oficial: Guía de instalación de Maven.
 
