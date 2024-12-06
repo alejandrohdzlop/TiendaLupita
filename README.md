@@ -126,3 +126,16 @@ Crea un pull request desde GitHub.
 
 # Producto
 Este sistema está diseñado para ser una herramienta flexible y escalable que mejore las operaciones de pequeñas empresas. La primera versión incluye funcionalidades esenciales como la gestión de productos y clientes, mientras que futuras iteraciones introducirán características avanzadas.
+
+## Acceso al Producto
+
+### Descarga del Producto
+- [Archivo WAR](dist/Tienda_Lupita.war): Puedes descargar el archivo WAR para implementarlo en un servidor de aplicaciones.
+
+### Requisitos para ejecutar el WAR
+- Un servidor de aplicaciones compatible con Jakarta EE 10, como GlassFish o Payara.
+- Configuración de rutas en el servidor según la documentación del proyecto.
+
+### Alternativa: Implementación en la nube
+Si decides implementar el producto en la nube, actualiza esta sección con el enlace correspondiente.
+
