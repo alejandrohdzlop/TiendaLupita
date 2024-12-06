@@ -2,7 +2,7 @@
 
 # Resumen Ejecutivo
 
-- [Descripción](https://github.com/alejandrohdzlop/TiendaLupita/wiki/Descripción)
+  #  Descripción
 Tienda_Lupita es un sistema de gestión web diseñado para optimizar las operaciones de una tienda y papelería. Permite administrar productos y clientes de manera eficiente, proporcionando herramientas para el control del inventario, registro de clientes y seguimiento de datos temporales mediante cookies.
 
 # Problema Identificado
@@ -28,15 +28,16 @@ Controlador: Conecta la vista y el modelo, manejando las solicitudes del usuario
 
 # Tabla de Contenidos
 
-1.-Requerimientos
-2.- Instalación
-3.- Configuración
-4.- Uso
-  a.- Guía para el Usuario Final
-  b.- Guía para el Usuario Administrador
-4.- Contribución
-5.- Roadmap
-6.-Producto
+- [Descripción](https://github.com/alejandrohdzlop/TiendaLupita/wiki/Descripción)
+- [Problema Identificado](https://github.com/alejandrohdzlop/TiendaLupita/wiki/Problema-Identificado)
+- [Solución](https://github.com/alejandrohdzlop/TiendaLupita/wiki/Solución)
+- [Arquitectura](https://github.com/alejandrohdzlop/TiendaLupita/wiki/Arquitectura)
+- [Requerimientos](https://github.com/alejandrohdzlop/TiendaLupita/wiki/Requerimientos)
+- [Instalación](https://github.com/alejandrohdzlop/TiendaLupita/wiki/Instalación)
+- [Configuración](https://github.com/alejandrohdzlop/TiendaLupita/wiki/Configuración)
+- [Uso](https://github.com/alejandrohdzlop/TiendaLupita/wiki/Uso)
+- [Contribución](https://github.com/alejandrohdzlop/TiendaLupita/wiki/Contribución)
+- [Roadmap](https://github.com/alejandrohdzlop/TiendaLupita/wiki/Roadmap)
 
 # Requerimientos
 
